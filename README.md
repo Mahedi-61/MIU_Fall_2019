@@ -13,5 +13,5 @@ For any academic questions ask <a href="https://github.com/Mahedi-61/MIU_Fall_20
 Give your anonymous feedback <a href="https://forms.gle/JzxMGb3VfQLDR9Px8">here</a>
 
 ## Course Project Details
-late due to my extreme procrastination :cry: <br />
+late due to procrastination :cry: <br />
 ## Announcement <br />
