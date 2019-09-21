@@ -1,7 +1,7 @@
-<img src="https://miro.medium.com/proxy/1*bhFifratH9DjKqMBTeQG5A.gif" width="500" height="300" /> <br/>
+<img src="https://miro.medium.com/proxy/1*bhFifratH9DjKqMBTeQG5A.gif" width="600" height="300" /> <br/>
 
 ## Course Description
-Welcome ! You just found repository of resource materials for <br/>
+Welcome ! You just found the repository of resource materials for <br/>
 <b> Neural Networks and Fuzzy Systems (CSE-433) </b> <br/>
 <b> Computer Vision & Robotics (CSE-437) </b><br/>
 courses offered by MIU at Fall 2019 trimester. <br/>
