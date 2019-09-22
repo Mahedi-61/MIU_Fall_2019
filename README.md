@@ -13,6 +13,6 @@ For any academic questions ask <a href="https://github.com/Mahedi-61/MIU_Fall_20
 Give your anonymous feedback <a href="https://forms.gle/JzxMGb3VfQLDR9Px8">here</a>
 
 ## Course Project Details
-[comming ....] <br />
+[coming ....] <br />
 ## Announcement <br />
 * [23/09/2019]: There wil be no class for both courses in <b>28/09/2019</b> and <b>29/09/2019</b> :cry:
