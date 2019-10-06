@@ -18,4 +18,4 @@ Give your anonymous feedback <a href="https://forms.gle/JzxMGb3VfQLDR9Px8">here<
 [coming ....] <br />
 ## Announcement <br />
 * [23/09/2019]: There wil be no class for both courses in <b>28/09/2019</b> and <b>29/09/2019</b> :cry:
-* [06/09/2019]: <a href="./CSE-433/home_work/home_work_1.pdf">Homework-1</a> for Neural Network (CSE-433) course. Due <b>06/12/2019</b> for section-A & <b>15/12/2019</b> for section-B 
+* [06/09/2019]: <a href="./CSE-433/home_work/home_work_1.pdf">Homework-1</a> for Neural Network (CSE-433) course. Due <b>12/10/2019</b> for section-A & <b>15/10/2019</b> for section-B 
