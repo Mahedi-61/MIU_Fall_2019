@@ -25,4 +25,4 @@ For CSE-433:  <a href="./CSE-433/introduction/introduction_to_deep_learning.pdf"
 <a href="./CSE-433/feed_forwad_nn/">feed_forward, </a> <a href="./CSE-433/backpropagation/nn_and_backprop.pdf"> backprop, </a>
 <a href="./CSE-433/train_nn"> training neural_network </a>. Video explanation: <a href="https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH"> here </a>
 
-* [24/10/2019]: Exam questions with solution to the <a href="./CSE-433/home_work/solution_home_work1.pdf">home work-1 </a> for CSE-433 has been uploaded. 
+* [24/10/2019]: Exam questions with solution to the <a href="./CSE-433/home_work/solution_home_work1.pdf">Homework-1 </a> for Neural Network (CSE-433) course has been uploaded. 
