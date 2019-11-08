@@ -15,7 +15,9 @@ For any academic questions ask <a href="https://github.com/Mahedi-61/MIU_Fall_20
 Give your anonymous feedback <a href="https://forms.gle/JzxMGb3VfQLDR9Px8">here</a>
 
 ## Course Project Details
-<a href="./project/instructions_for_the_lab_project.pdf">lab project</a> <br />
+<a href="./project/instructions_for_the_lab_project.pdf">Lab Project  </a> <a href="./project/team_list.pdf">   Team List</a><br />
+<b>Video Tutorial for the Project:</b> <a href="https://www.youtube.com/playlist?list=PLPOJueyJKNce2cs77niLmbpADKwF7h_av">here/a> 
+
 ## Announcement <br />
 * [23/09/2019]: There wil be no class for both courses in <b>28/09/2019</b> and <b>29/09/2019</b> :cry:
 * [06/10/2019]: <a href="./CSE-433/home_work/home_work_1.pdf">Homework-1</a> for Neural Network (CSE-433) course. Due <b>12/10/2019</b> for section-A & <b>15/10/2019</b> for section-B 
