@@ -27,4 +27,5 @@ For CSE-433:  <a href="./CSE-433/introduction/introduction_to_deep_learning.pdf"
 <a href="./CSE-433/feed_forwad_nn/">feed_forward, </a> <a href="./CSE-433/backpropagation/nn_and_backprop.pdf"> backprop, </a>
 <a href="./CSE-433/train_nn"> training neural_network </a>. Video explanation: <a href="https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH"> here </a>
 * [24/10/2019]: Exam questions with solution to the <a href="./CSE-433/home_work/solution_home_work1.pdf">Homework-1 </a> for Neural Network (CSE-433) course has been uploaded. 
-* [08/11/2019]: Participant Team List & Video Tutorial for the project has been uploaded. (see above)
+* [08/11/2019]: Participant Team List & Video Tutorial for the project has been uploaded. (see above)  <br />
+* [11/11/2019]: Class Test-1 for Section A for CSE-433 will be held on 16/11/2019. Syllabus: <a href="./CSE-433/restricted_boltzmann_machine/">restricted boltzmann machine</a>
