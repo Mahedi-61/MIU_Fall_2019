@@ -15,7 +15,7 @@ For any academic questions ask <a href="https://github.com/Mahedi-61/MIU_Fall_20
 Give your anonymous feedback <a href="https://forms.gle/JzxMGb3VfQLDR9Px8">here</a>
 
 ## Course Project Details
-<a href="./project/instructions_for_the_lab_project.pdf">Lab Project &nbsp;&nbsp; &nbsp;&nbsp;</a> <a href="./project/team_list.pdf">   Team List</a><br />
+<a href="./project/instructions_for_the_lab_project.pdf">Lab Project &nbsp;&nbsp; &nbsp;&nbsp;</a> <a href="./project/team_list.pdf">   Team List&nbsp;&nbsp; </a> <a href="https://github.com/Mahedi-61/MIU_Fall_2019/issues/4"> Contest LeaderBoard</a><br />
 <b>Video Tutorial for the Project:</b> <a href="https://www.youtube.com/playlist?list=PLPOJueyJKNce2cs77niLmbpADKwF7h_av">here</a> 
 
 ## Announcement <br />
