@@ -15,8 +15,9 @@ For any academic questions ask <a href="https://github.com/Mahedi-61/MIU_Fall_20
 Give your anonymous feedback <a href="https://forms.gle/JzxMGb3VfQLDR9Px8">here</a>
 
 ## Course Project Details
-<a href="./project/instructions_for_the_lab_project.pdf">Lab Project &nbsp;&nbsp; &nbsp;&nbsp;</a> <a href="./project/team_list.pdf">   Team List&nbsp;&nbsp; </a> <a href="https://github.com/Mahedi-61/MIU_Fall_2019/issues/4"> Contest LeaderBoard</a><br />
-<b>Video Tutorial for the Project:</b> <a href="https://www.youtube.com/playlist?list=PLPOJueyJKNce2cs77niLmbpADKwF7h_av">here</a> 
+<a href="./project/instructions_for_the_lab_project.pdf">Lab Project &nbsp;&nbsp; &nbsp;&nbsp;</a> <a href="./project/team_list.pdf">  &nbsp;&nbsp; Team List</a> <a href="https://github.com/Mahedi-61/MIU_Fall_2019/issues/4"> &nbsp;&nbsp;Contest LeaderBoard</a><br />
+<b>Video Tutorial for the Project:</b> <a href="https://www.youtube.com/playlist?list=PLPOJueyJKNce2cs77niLmbpADKwF7h_av">here</a> <br/>
+Installation guidelines: <a href="https://github.com/Mahedi-61/MIU_Fall_2019/issues/11">Windows</a>
 
 ## Announcement <br />
 * [23/09/2019]: There wil be no class for both courses in <b>28/09/2019</b> and <b>29/09/2019</b> :cry:
