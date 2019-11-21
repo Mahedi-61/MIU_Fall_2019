@@ -30,3 +30,5 @@ For CSE-433:  <a href="./CSE-433/introduction/introduction_to_deep_learning.pdf"
 * [24/10/2019]: Exam questions with solution to the <a href="./CSE-433/home_work/solution_home_work1.pdf">Homework-1 </a> for Neural Network (CSE-433) course has been uploaded. 
 * [08/11/2019]: Participated team list & video tutorial for the baseline performance of the contest have been uploaded. (see above)  <br />
 * [11/11/2019]: Class Test-1 for Section A for CSE-433 will be held on <b>16/11/2019</b>. Syllabus: <a href="./CSE-433/restricted_boltzmann_machine/">restricted boltzmann machine</a>
+* [21/11/2019]: Class Test-1 for Section B for CSE-433 will be held on <b>26/11/2019</b>. Syllabus: <a href="./CSE-433/restricted_boltzmann_machine/">restricted boltzmann machine</a>
+* [21/11/2019]: Extra Class for Section B for CSE-433 will be held on <b>23/11/2019</b> <b>2:00PM</b> 
