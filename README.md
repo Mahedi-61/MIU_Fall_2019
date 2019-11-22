@@ -15,8 +15,9 @@ For any academic questions ask <a href="https://github.com/Mahedi-61/MIU_Fall_20
 Give your anonymous feedback <a href="https://forms.gle/JzxMGb3VfQLDR9Px8">here</a>
 
 ## Course Project Details
-<a href="./project/instructions_for_the_lab_project.pdf">Lab Project &nbsp;&nbsp; &nbsp;&nbsp;</a> <a href="./project/team_list.pdf">   Team List</a><br />
-<b>Video Tutorial for the Project:</b> <a href="https://www.youtube.com/playlist?list=PLPOJueyJKNce2cs77niLmbpADKwF7h_av">here</a> 
+<a href="./project/instructions_for_the_lab_project.pdf">Lab Project &nbsp;&nbsp; &nbsp;&nbsp;</a> <a href="./project/team_list.pdf">  &nbsp;&nbsp; Team List</a> <a href="https://github.com/Mahedi-61/MIU_Fall_2019/issues/4"> &nbsp;&nbsp;Contest LeaderBoard</a><br />
+<b>Video Tutorial for the Project:</b> <a href="https://www.youtube.com/playlist?list=PLPOJueyJKNce2cs77niLmbpADKwF7h_av">here</a> <br/>
+Installation guidelines: <a href="https://github.com/Mahedi-61/MIU_Fall_2019/issues/11">Windows</a>
 
 ## Announcement <br />
 * [23/09/2019]: There wil be no class for both courses in <b>28/09/2019</b> and <b>29/09/2019</b> :cry:
@@ -29,3 +30,5 @@ For CSE-433:  <a href="./CSE-433/introduction/introduction_to_deep_learning.pdf"
 * [24/10/2019]: Exam questions with solution to the <a href="./CSE-433/home_work/solution_home_work1.pdf">Homework-1 </a> for Neural Network (CSE-433) course has been uploaded. 
 * [08/11/2019]: Participated team list & video tutorial for the baseline performance of the contest have been uploaded. (see above)  <br />
 * [11/11/2019]: Class Test-1 for Section A for CSE-433 will be held on <b>16/11/2019</b>. Syllabus: <a href="./CSE-433/restricted_boltzmann_machine/">restricted boltzmann machine</a>
+* [21/11/2019]: Class Test-1 for Section B for CSE-433 will be held on <b>26/11/2019</b>. Syllabus: <a href="./CSE-433/restricted_boltzmann_machine/">restricted boltzmann machine</a>
+* [21/11/2019]: Extra Class for Section B for CSE-433 will be held on <b>23/11/2019</b> <b>2:00PM</b> 
