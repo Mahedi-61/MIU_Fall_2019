@@ -36,4 +36,4 @@ For CSE-433:  <a href="./CSE-433/introduction/introduction_to_deep_learning.pdf"
 * [24/11/2019]: Class Test-1 for CSE-437 will be held on <b>01/12/2019</b>. Syllabus: <a href="./CSE-437/detection_and_segmentation.pdf/">detection_and_segmentation</a>
 * [29/11/2019]: There wil be no class for CSE-433 in <b>30/11/2019</b> :cry:
 * [30/11/2019]: Contest deadline has been extended. Updated deadline: <b> 06/12/2019, 11:59PM </b> (sharp). Please submit your best performing submission file <a href="https://www.dropbox.com/request/mU2HdtbBqXfCPKpN1dXh">here</a> in the format submission_[TEAM NAME].csv for instructor verification. 
-
+* [01/12/2019]: Quiz test for the contest will held <b>07/12/2019</b> for section-A and  <b>10/12/2019</b> for section-B. 
