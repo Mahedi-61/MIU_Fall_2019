@@ -15,10 +15,12 @@ For any academic questions ask <a href="https://github.com/Mahedi-61/MIU_Fall_20
 Give your anonymous feedback <a href="https://forms.gle/JzxMGb3VfQLDR9Px8">here</a>
 
 ## Course Project Details
-<a href="./project/instructions_for_the_lab_project.pdf">Lab Project &nbsp;&nbsp; &nbsp;&nbsp;</a> <a href="./project/team_list.pdf">  &nbsp;&nbsp; Team List</a> <a href="https://github.com/Mahedi-61/MIU_Fall_2019/issues/4"> &nbsp;&nbsp;Contest LeaderBoard</a><br />
+<a href="./project/instructions_for_the_lab_project.pdf">Lab Project &nbsp;&nbsp; &nbsp;&nbsp;</a> <a href="./project/team_list.pdf">  &nbsp;&nbsp; Team List</a> <a href="./project/project_report.pdf"> &nbsp;&nbsp;Project Report</a><br /> <a href="https://github.com/Mahedi-61/MIU_Fall_2019/issues/4"> &nbsp;&nbsp;Contest LeaderBoard</a><br />
 <b>Video Tutorial for the Project:</b> <a href="https://www.youtube.com/playlist?list=PLPOJueyJKNce2cs77niLmbpADKwF7h_av">here</a> <br/>
 Installation guidelines: <a href="https://github.com/Mahedi-61/MIU_Fall_2019/issues/11">Windows</a> <br>
-Upload your selected submission file: <a href="https://www.dropbox.com/request/mU2HdtbBqXfCPKpN1dXh">here</a> 
+Upload your selected submission file: <a href="https://www.dropbox.com/request/mU2HdtbBqXfCPKpN1dXh">here</a> <br>
+Submit your project report: <a href="https://www.dropbox.com/request/mU2HdtbBqXfCPKpN1dXh">here</a> 
+
 
 ## Announcement <br />
 * [23/09/2019]: There wil be no class for both courses in <b>28/09/2019</b> and <b>29/09/2019</b> :cry:
@@ -37,3 +39,4 @@ For CSE-433:  <a href="./CSE-433/introduction/introduction_to_deep_learning.pdf"
 * [29/11/2019]: There wil be no class for CSE-433 in <b>30/11/2019</b> :cry:
 * [30/11/2019]: Contest deadline has been extended. Updated deadline: <b> 06/12/2019, 11:59PM </b> (sharp). Please submit your best performing submission file <a href="https://www.dropbox.com/request/mU2HdtbBqXfCPKpN1dXh">here</a> in the format submission_[TEAM NAME].csv for instructor verification. 
 * [01/12/2019]: Quiz test for the contest will held <b>07/12/2019</b> for section-A and  <b>10/12/2019</b> for section-B. 
+* [03/12/2019]: Project report submission deadline <b>09/12/2019</b> 11:59PM. See the <a href="./project/project_report.pdf">instructions</a> for project report. Project presentation will be held <b>10/12/2019, 3:00PM</b>
