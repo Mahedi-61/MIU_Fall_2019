@@ -40,3 +40,4 @@ For CSE-433:  <a href="./CSE-433/introduction/introduction_to_deep_learning.pdf"
 * [30/11/2019]: Contest deadline has been extended. Updated deadline: <b> 06/12/2019, 11:59PM </b> (sharp). Please submit your best performing submission file <a href="https://www.dropbox.com/request/mU2HdtbBqXfCPKpN1dXh">here</a> in the format submission_[TEAM NAME].csv for instructor verification. 
 * [01/12/2019]: Quiz test for the contest will held <b>07/12/2019</b> for section-A and  <b>10/12/2019</b> for section-B. 
 * [03/12/2019]: Project report submission deadline <b>09/12/2019</b> 11:59PM. See the <a href="./project/project_report.pdf">instructions</a> for project report. Project presentation will be held <b>10/12/2019, 3:00PM</b>
+* [06/12/2019]: Project Contest is closed. See the <a href="https://github.com/Mahedi-61/MIU_Fall_2019/issues/4"> &nbsp;&nbsp;Contest LeaderBoard </a> for final update.  
