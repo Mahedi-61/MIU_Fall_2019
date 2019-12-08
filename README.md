@@ -41,4 +41,8 @@ For CSE-433:  <a href="./CSE-433/introduction/introduction_to_deep_learning.pdf"
 * [01/12/2019]: Quiz test for the contest will held <b>07/12/2019</b> for section-A and  <b>10/12/2019</b> for section-B. 
 * [03/12/2019]: Project report submission deadline <b>09/12/2019</b> 11:59PM. See the <a href="./project/project_report.pdf">instructions</a> for project report. Project presentation will be held <b>10/12/2019, 3:00PM</b>
 * [06/12/2019]: Project Contest is closed. See the <a href="https://github.com/Mahedi-61/MIU_Fall_2019/issues/4"> &nbsp;&nbsp;Contest LeaderBoard </a> for final update.  <br>
-* [08/12/2019]: Happy <a href="./appendix/rag/rag_image.png"> Rag Day </a> of 40th batch. <a href="./appendix/rag"> [Source]</a>
+* [08/12/2019]: Happy <a href="./appendix/rag/rag_image.png"> Rag Day </a> of 40th batch. <a href="./appendix/rag"> [Source]</a> <br/>
+* [08/12/2019]: <b>Final exam syllabus</b>  <br />
+For CSE-437: <a href="./CSE-437/training_neural_networks.pdf"> Training Neural Network, </a>  <a href="./CSE-437/CNN_architectures.pdf"> CNN Architectures, </a> <a href="./CSE-437/detection_and_segmentation.pdf"> Detection & Segmentation </a> <br/> These slides are being edited according to syllabus. Please re-download it for final syllabus. <br/>
+For CSE-433:  <a href="./CSE-433/restricted_boltzmann_machine/">restricted boltzmann machine, </a>
+<a href="./CSE-433/deep_autoencoder/">deep_autoencoder, </a>  <a href="./CSE-433/optimization/optimization.pdf"> optimization, </a> </a>  <a href="./CSE-433/recurrent_nn/recursive_nets.pdf"> recursive nets, </a> Video explanation: <a href="https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH"> here </a>
