@@ -1,0 +1,14 @@
+# Rag Day Card dedicated to 40th batch Dept. of CSE, MIU
+# Please download this direcotry. 
+
+# The direcotory contains
+	## rag_celebration.py
+        ## 40.gif
+	## rag_image.png
+        ## instructions.txt
+
+# For Linux Machine. Please run
+python3 rag_celebration.py
+
+# For Windows Machine. Please run
+python rag_celebration.py
