@@ -1,5 +1,5 @@
-<img src="./appendix/img/neural_network.gif" width="450" height="300" /> <img src="./appendix/img/backpropagation.gif" width="400" height="300" /> <br/>
-<img src="./appendix/img/nlp.gif" width="400" height="250" />  <img src="./appendix/img/acoustic.gif" width="450" height="400" /> 
+<img src="./appendix/img/neural_network.gif" width="350" height="300" /> <img src="./appendix/img/backpropagation.gif" width="300" height="300" /> <br/>
+<img src="./appendix/img/nlp.gif" width="300" height="250" />  <img src="./appendix/img/acoustic.gif" width="350" height="400" /> 
 
 ## Course Description
 Welcome ! You just found the repository of resource materials for <br/>
